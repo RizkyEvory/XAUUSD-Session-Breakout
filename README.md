@@ -739,7 +739,7 @@ Contributions are welcome! Here's how you can help:
 
 ### Getting Help
 
-- **GitHub Issues**: [github.com/RizkyEvory/GoldSessionBreakout/issues](https://github.com/RizkyEvory/GoldSessionBreakout/issues)
+- **GitHub Issues**: [github.com/RizkyEvory/XAUUSD-Session-Breakout/issues](https://github.com/RizkyEvory/GoldSessionBreakout/issues)
 - **Documentation**: This README
 - **Email**: Contact via GitHub profile
 
@@ -837,7 +837,7 @@ Special thanks to:
 
 **Made with ❤️ by M4DI~UciH4**
 
-[GitHub](https://github.com/RizkyEvory) • [Report Bug](https://github.com/RizkyEvory/GoldSessionBreakout/issues) • [Request Feature](https://github.com/RizkyEvory/GoldSessionBreakout/issues)
+[GitHub](https://github.com/RizkyEvory) • [Report Bug](https://github.com/RizkyEvory/XAUUSD-Session-Breakout/issues) • [Request Feature](https://github.com/RizkyEvory/XAUUSD-Session-Breakout/issues)
 
 ---
 
